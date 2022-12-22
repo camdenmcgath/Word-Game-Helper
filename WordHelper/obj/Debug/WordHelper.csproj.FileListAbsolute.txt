@@ -1,0 +1,245 @@
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\bin\Debug\WordHelper.exe.config
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\bin\Debug\WordHelper.exe
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\bin\Debug\WordHelper.pdb
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.Properties.Resources.resources
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.GenerateResource.cache
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.exe
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.pdb
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.CoreCompileInputs.cache
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.AssemblyReference.cache
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.CopyComplete
+C:\Users\Kevin\source\repos\WordHelper\WordHelper\obj\Debug\WordHelper.frmMain.resources
+G:\EventDriven\Labs\WordHelper\WordHelper\bin\Debug\WordHelper.exe.config
+G:\EventDriven\Labs\WordHelper\WordHelper\bin\Debug\WordHelper.exe
+G:\EventDriven\Labs\WordHelper\WordHelper\bin\Debug\WordHelper.pdb
+G:\EventDriven\Labs\WordHelper\WordHelper\bin\Debug\NetSpell.SpellChecker.dll
+G:\EventDriven\Labs\WordHelper\WordHelper\bin\Debug\NetSpell.SpellChecker.xml
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.AssemblyReference.cache
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.SuggestedBindingRedirects.cache
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.frmMain.resources
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.Properties.Resources.resources
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.GenerateResource.cache
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.CoreCompileInputs.cache
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.CopyComplete
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.exe
+G:\EventDriven\Labs\WordHelper\WordHelper\obj\Debug\WordHelper.pdb
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\bin\Debug\WordHelper.exe.config
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\bin\Debug\WordHelper.exe
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\bin\Debug\WordHelper.pdb
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\bin\Debug\NetSpell.SpellChecker.dll
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\bin\Debug\NetSpell.SpellChecker.xml
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.csproj.AssemblyReference.cache
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.csproj.SuggestedBindingRedirects.cache
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.frmMain.resources
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.Properties.Resources.resources
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.csproj.GenerateResource.cache
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.csproj.CoreCompileInputs.cache
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.csproj.CopyComplete
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.exe
+E:\NNU\EventDriven\Labs\WordHelper - Solution\WordHelper\obj\Debug\WordHelper.pdb
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.AssemblyReference.cache
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.SuggestedBindingRedirects.cache
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.frmMain.resources
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.Properties.Resources.resources
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.GenerateResource.cache
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.CoreCompileInputs.cache
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.exe
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.pdb
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\bin\Debug\WordHelper.exe.config
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\bin\Debug\WordHelper.exe
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\bin\Debug\WordHelper.pdb
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\bin\Debug\NetSpell.SpellChecker.dll
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\bin\Debug\NetSpell.SpellChecker.xml
+G:\NNU\EventDriven\Labs\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.CopyComplete
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\WordHelper.exe.config
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\WordHelper.exe
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\WordHelper.pdb
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.AssemblyReference.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.frmMain.resources
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.Properties.Resources.resources
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.GenerateResource.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.CoreCompileInputs.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.csproj.CopyComplete
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.exe
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\obj\Debug\WordHelper.pdb
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.Settings.Configuration.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Buffers.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Memory.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Text.Json.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.ValueTuple.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.Settings.Configuration.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Buffers.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Memory.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Text.Json.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\System.ValueTuple.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\RestSharp.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper - Start\WordHelper - Start\WordHelper\bin\Debug\RestSharp.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\WordHelper.exe.config
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\WordHelper.exe
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\WordHelper.pdb
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\RestSharp.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Settings.Configuration.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Buffers.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Memory.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Text.Json.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.ValueTuple.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\RestSharp.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Settings.Configuration.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Buffers.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Memory.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Text.Json.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.ValueTuple.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.AssemblyReference.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.frmMain.resources
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.Properties.Resources.resources
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.GenerateResource.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.CoreCompileInputs.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.CopyComplete
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.exe
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.pdb
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\WordHelper.exe.config
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\WordHelper.exe
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\WordHelper.pdb
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.DependencyModel.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\NetSpell.SpellChecker.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Newtonsoft.Json.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\RestSharp.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Settings.Configuration.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.Console.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.File.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Buffers.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Memory.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Text.Json.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.ValueTuple.dll
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.DependencyModel.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\NetSpell.SpellChecker.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Newtonsoft.Json.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\RestSharp.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Settings.Configuration.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.Console.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.File.pdb
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\Serilog.Sinks.File.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Buffers.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Memory.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Text.Json.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\bin\Debug\System.ValueTuple.xml
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.AssemblyReference.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.SuggestedBindingRedirects.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.frmMain.resources
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.Properties.Resources.resources
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.GenerateResource.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.CoreCompileInputs.cache
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.csproj.CopyComplete
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.exe
+C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\obj\Debug\WordHelper.pdb
