@@ -1,0 +1,124 @@
+2022-12-23 13:33:02.697 -08:00 [INF] Logger was initialized successfully.
+2022-12-23 13:33:02.733 -08:00 [INF] Initializing Wordle interface...
+2022-12-23 13:33:37.304 -08:00 [INF] Logger was initialized successfully.
+2022-12-23 13:33:37.331 -08:00 [INF] Initializing Wordle interface...
+2022-12-23 13:34:36.599 -08:00 [INF] Logger was initialized successfully.
+2022-12-23 13:34:36.628 -08:00 [INF] Initializing Wordle interface...
+2022-12-23 13:35:48.127 -08:00 [INF] Logger was initialized successfully.
+2022-12-23 13:35:48.156 -08:00 [INF] Initializing Wordle interface...
+2022-12-23 13:36:48.673 -08:00 [INF] Logger was initialized successfully.
+2022-12-23 13:36:48.708 -08:00 [INF] Initializing Wordle interface...
+2022-12-23 13:36:48.709 -08:00 [INF] Program opened!
+2022-12-23 13:37:06.006 -08:00 [INF] Calculating word game...
+2022-12-23 13:37:06.006 -08:00 [INF] Clearing lists before calculations...
+2022-12-23 13:37:06.008 -08:00 [INF] Array permutations:
+2022-12-23 13:37:06.008 -08:00 [INF] A
+2022-12-23 13:37:06.008 -08:00 [INF] AB
+2022-12-23 13:37:06.008 -08:00 [INF] ABC
+2022-12-23 13:37:06.008 -08:00 [INF] AC
+2022-12-23 13:37:06.008 -08:00 [INF] ACB
+2022-12-23 13:37:06.008 -08:00 [INF] B
+2022-12-23 13:37:06.008 -08:00 [INF] BA
+2022-12-23 13:37:06.008 -08:00 [INF] BAC
+2022-12-23 13:37:06.008 -08:00 [INF] BC
+2022-12-23 13:37:06.008 -08:00 [INF] BCA
+2022-12-23 13:37:06.008 -08:00 [INF] C
+2022-12-23 13:37:06.008 -08:00 [INF] CB
+2022-12-23 13:37:06.008 -08:00 [INF] CBA
+2022-12-23 13:37:06.008 -08:00 [INF] CA
+2022-12-23 13:37:06.008 -08:00 [INF] CAB
+2022-12-23 13:37:06.008 -08:00 [INF] Filtering based on user specs...
+2022-12-23 13:37:06.140 -08:00 [INF] Word Game results:
+2022-12-23 13:37:06.141 -08:00 [INF] CAB
+2022-12-23 13:37:12.808 -08:00 [INF] Showing Basic Word Game permutations (pre dictionary filter).
+2022-12-23 13:37:15.358 -08:00 [INF] Shwoing calculation results
+2022-12-23 13:37:45.088 -08:00 [ERR] Error in the Add Word.
+System.InvalidOperationException: ExecuteNonQuery requires an open and available Connection. The connection's current state is closed.
+   at System.Data.SqlClient.SqlCommand.ValidateCommand(String method, Boolean async)
+   at System.Data.SqlClient.SqlCommand.InternalExecuteNonQuery(TaskCompletionSource`1 completion, String methodName, Boolean sendToPipe, Int32 timeout, Boolean& usedCache, Boolean asyncWrite, Boolean inRetry)
+   at System.Data.SqlClient.SqlCommand.ExecuteNonQuery()
+   at WordHelper.frmMain.btnAddWord_Click(Object sender, EventArgs e) in C:\Users\clm29\source\repos\COMP-2260\WordHelper\WordHelperApp2\WordHelperApp\WordHelper\WordHelper\Database.cs:line 72
+2022-12-23 13:38:05.097 -08:00 [INF] Calculating wordle...
+2022-12-23 13:38:05.108 -08:00 [INF] Wordle valid words:
+2022-12-23 13:38:05.108 -08:00 [INF] chirk
+2022-12-23 13:38:05.108 -08:00 [INF] chirl
+2022-12-23 13:38:05.108 -08:00 [INF] chirm
+2022-12-23 13:38:05.108 -08:00 [INF] chiro
+2022-12-23 13:38:05.109 -08:00 [INF] chirp
+2022-12-23 13:38:05.109 -08:00 [INF] chirr
+2022-12-23 13:38:05.110 -08:00 [INF] chirt
+2022-12-23 13:38:05.110 -08:00 [INF] chiru
+2022-12-23 13:38:05.110 -08:00 [INF] choir
+2022-12-23 13:38:05.110 -08:00 [INF] chord
+2022-12-23 13:38:05.110 -08:00 [INF] churl
+2022-12-23 13:38:05.111 -08:00 [INF] churr
+2022-12-23 13:38:05.111 -08:00 [INF] circs
+2022-12-23 13:38:05.111 -08:00 [INF] cirls
+2022-12-23 13:38:05.111 -08:00 [INF] cirri
+2022-12-23 13:38:05.111 -08:00 [INF] clour
+2022-12-23 13:38:05.112 -08:00 [INF] coirs
+2022-12-23 13:38:05.112 -08:00 [INF] color
+2022-12-23 13:38:05.112 -08:00 [INF] corby
+2022-12-23 13:38:05.112 -08:00 [INF] cords
+2022-12-23 13:38:05.113 -08:00 [INF] corgi
+2022-12-23 13:38:05.113 -08:00 [INF] corks
+2022-12-23 13:38:05.113 -08:00 [INF] corky
+2022-12-23 13:38:05.113 -08:00 [INF] corms
+2022-12-23 13:38:05.114 -08:00 [INF] corps
+2022-12-23 13:38:05.114 -08:00 [INF] corso
+2022-12-23 13:38:05.114 -08:00 [INF] courb
+2022-12-23 13:38:05.114 -08:00 [INF] courd
+2022-12-23 13:38:05.115 -08:00 [INF] cours
+2022-12-23 13:38:05.115 -08:00 [INF] court
+2022-12-23 13:38:05.115 -08:00 [INF] cowry
+2022-12-23 13:38:05.117 -08:00 [INF] curbs
+2022-12-23 13:38:05.117 -08:00 [INF] curch
+2022-12-23 13:38:05.117 -08:00 [INF] curds
+2022-12-23 13:38:05.118 -08:00 [INF] curdy
+2022-12-23 13:38:05.118 -08:00 [INF] curfs
+2022-12-23 13:38:05.118 -08:00 [INF] curio
+2022-12-23 13:38:05.118 -08:00 [INF] curli
+2022-12-23 13:38:05.119 -08:00 [INF] curls
+2022-12-23 13:38:05.119 -08:00 [INF] curly
+2022-12-23 13:38:05.119 -08:00 [INF] currs
+2022-12-23 13:38:05.119 -08:00 [INF] curry
+2022-12-23 13:38:05.120 -08:00 [INF] cursi
+2022-12-23 13:38:05.120 -08:00 [INF] curst
+2022-12-23 13:38:05.120 -08:00 [INF] curvy
+2022-12-23 13:38:39.427 -08:00 [INF] Calculating wordle...
+2022-12-23 13:38:39.430 -08:00 [INF] Wordle valid words:
+2022-12-23 13:38:39.430 -08:00 [INF] courb
+2022-12-23 13:38:39.430 -08:00 [INF] courd
+2022-12-23 13:38:39.430 -08:00 [INF] cours
+2022-12-23 13:38:39.430 -08:00 [INF] court
+2022-12-23 13:38:39.430 -08:00 [INF] cowry
+2022-12-23 13:38:39.430 -08:00 [INF] currs
+2022-12-23 13:38:39.431 -08:00 [INF] curry
+2022-12-23 13:38:59.224 -08:00 [INF] Clearing wordle.
+2022-12-23 13:38:59.224 -08:00 [INF] Initializing Wordle interface...
+2022-12-23 13:38:59.225 -08:00 [INF] Calculating word game...
+2022-12-23 13:38:59.225 -08:00 [INF] Clearing lists before calculations...
+2022-12-23 13:38:59.225 -08:00 [INF] Array permutations:
+2022-12-23 13:38:59.225 -08:00 [INF] A
+2022-12-23 13:38:59.225 -08:00 [INF] AB
+2022-12-23 13:38:59.225 -08:00 [INF] ABC
+2022-12-23 13:38:59.225 -08:00 [INF] AC
+2022-12-23 13:38:59.225 -08:00 [INF] ACB
+2022-12-23 13:38:59.225 -08:00 [INF] B
+2022-12-23 13:38:59.225 -08:00 [INF] BA
+2022-12-23 13:38:59.225 -08:00 [INF] BAC
+2022-12-23 13:38:59.225 -08:00 [INF] BC
+2022-12-23 13:38:59.225 -08:00 [INF] BCA
+2022-12-23 13:38:59.225 -08:00 [INF] C
+2022-12-23 13:38:59.225 -08:00 [INF] CB
+2022-12-23 13:38:59.225 -08:00 [INF] CBA
+2022-12-23 13:38:59.225 -08:00 [INF] CA
+2022-12-23 13:38:59.225 -08:00 [INF] CAB
+2022-12-23 13:38:59.225 -08:00 [INF] Filtering based on user specs...
+2022-12-23 13:38:59.341 -08:00 [INF] Word Game results:
+2022-12-23 13:38:59.341 -08:00 [INF] CAB
+2022-12-23 13:39:03.346 -08:00 [INF] Calculating word game...
+2022-12-23 13:39:03.346 -08:00 [INF] Clearing lists before calculations...
+2022-12-23 13:39:03.346 -08:00 [INF] Array permutations:
+2022-12-23 13:39:03.346 -08:00 [INF] Filtering based on user specs...
+2022-12-23 13:39:03.463 -08:00 [INF] Word Game results:

@@ -28,7 +28,7 @@ namespace WordHelper
             initLogger();
             initWordGameInterface();
             initWordleInterface();
-            initDatabaseConnection();
+            //initDatabaseConnection();
             statusStripSelected.Text = "Welcome!";
             Log.Information("Program opened!");
 
@@ -54,7 +54,7 @@ namespace WordHelper
         }
         private void frmMain_FormClosing(object sender, FormClosingEventArgs e)
         {
-            closeDatabaseConnection();
+            //closeDatabaseConnection();
             closeLogger();
             Log.Information("Cosing form, bye bye.");
         }
